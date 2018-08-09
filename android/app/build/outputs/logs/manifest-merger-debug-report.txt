@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:2:5-40
+		INJECTED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/nueve/.android/build-cache/5dcdce558c5981c13fdd9788f9ed799ddab1a535/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/nueve/.android/build-cache/5dcdce558c5981c13fdd9788f9ed799ddab1a535/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nueve/.android/build-cache/ee716c789f8fd747264e4d6b4374c4050affea8b/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nueve/.android/build-cache/50840cacf929890df256f72afd96298731cba2a2/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nueve/.android/build-cache/d703ec561f2c99c45152591a3f5135e7965c21a5/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nueve/.android/build-cache/9d6111d2c074c08addb4da36a2cebb134e88ad25/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nueve/.android/build-cache/059241f8a7376a34a6a82f59ed4b6ed092cc13fb/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nueve/.android/build-cache/476f646e10bd7e23043fcdc1bfb1ebaf605487bb/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nueve/.android/build-cache/e18e1aa9e1ad6797d955b85fc887db9f0a79a1ef/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nueve/.android/build-cache/d731cf29f300ad598028e615e325f102d0564d6b/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nueve/.android/build-cache/e8cf9224b76129f173c36c96a7ca043cc3b137f2/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/nueve/.android/build-cache/96e9100a93dd0d333d6ea02a05f52eb06d56ef67/output/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/nueve/.android/build-cache/83bdb079ee6a32bb671e553a00944b7795b08d77/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:allowBackup
+		ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:icon
+		ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:theme
+		ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.loginmoduleusingredux.MainActivity
+ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/nueve/.android/build-cache/5dcdce558c5981c13fdd9788f9ed799ddab1a535/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nueve/.android/build-cache/ee716c789f8fd747264e4d6b4374c4050affea8b/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nueve/.android/build-cache/50840cacf929890df256f72afd96298731cba2a2/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nueve/.android/build-cache/d703ec561f2c99c45152591a3f5135e7965c21a5/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nueve/.android/build-cache/9d6111d2c074c08addb4da36a2cebb134e88ad25/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nueve/.android/build-cache/059241f8a7376a34a6a82f59ed4b6ed092cc13fb/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nueve/.android/build-cache/476f646e10bd7e23043fcdc1bfb1ebaf605487bb/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nueve/.android/build-cache/e18e1aa9e1ad6797d955b85fc887db9f0a79a1ef/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nueve/.android/build-cache/d731cf29f300ad598028e615e325f102d0564d6b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nueve/.android/build-cache/e8cf9224b76129f173c36c96a7ca043cc3b137f2/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/nueve/.android/build-cache/b9c352043a78403f85935b50445f9c04d490661e/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/nueve/.android/build-cache/2777b81ae472c888121249b1e038c53a0fafa9dc/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/nueve/.android/build-cache/424e6f3213a13ee946a0a950b18fb63fe9f9fb15/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/nueve/.android/build-cache/44ceab765990604d67b28fd4e1efb12991cc0f0a/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/nueve/.android/build-cache/7fb06e5f03310acff12266ce2bf444d81fac13ed/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/nueve/.android/build-cache/6f0c680f94532548544a759738060974b93a0d98/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/nueve/.android/build-cache/e7bef8b7682ac53dfe5571f5c74fab65f953d50e/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/nueve/.android/build-cache/96e9100a93dd0d333d6ea02a05f52eb06d56ef67/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nueve/.android/build-cache/ee716c789f8fd747264e4d6b4374c4050affea8b/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nueve/.android/build-cache/50840cacf929890df256f72afd96298731cba2a2/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nueve/.android/build-cache/d703ec561f2c99c45152591a3f5135e7965c21a5/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nueve/.android/build-cache/9d6111d2c074c08addb4da36a2cebb134e88ad25/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nueve/.android/build-cache/059241f8a7376a34a6a82f59ed4b6ed092cc13fb/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nueve/.android/build-cache/476f646e10bd7e23043fcdc1bfb1ebaf605487bb/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nueve/.android/build-cache/e18e1aa9e1ad6797d955b85fc887db9f0a79a1ef/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nueve/.android/build-cache/d731cf29f300ad598028e615e325f102d0564d6b/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/nueve/.android/build-cache/e8cf9224b76129f173c36c96a7ca043cc3b137f2/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/nueve/.android/build-cache/e8cf9224b76129f173c36c96a7ca043cc3b137f2/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/nueve/.android/build-cache/e8cf9224b76129f173c36c96a7ca043cc3b137f2/output/AndroidManifest.xml:26:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
