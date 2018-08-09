@@ -16,7 +16,7 @@ export default class App extends Component<Props> {
             activity:true
         })
         var AppName = "APP Name"
-        const url = 'https://mystro.austinconversionoptimization.com/api/login'
+        const url = 'any api url for login and signup method must be post only'
         const fields = {FullName:'FullName',EMail:'EMail',Password:'Password'}
         ButtonAction(AppName,'register',url,fields).then((res)=>{
             if(res != undefined){
