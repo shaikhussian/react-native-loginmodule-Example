@@ -4,6 +4,20 @@ This module is helpful to create the login and signup page with al the validatio
 No need to TextInput onChange events when using this module.
 
 ![react-native-loginmodule-preview](https://github.com/shaikhussian/react-native-loginmodule-Example/blob/master/demos/react-native-loginmodule-preview.gif?raw=true)
+
+#To run the Example try the following commands
+```sh
+npm install
+```
+###In ios:
+```sh
+react-native run-ios
+```
+###In android
+```sh
+react-native run-android
+```
+
 # Pre-requisites
 react-native, node.js and a platform-specific tools needed to compile native NPM module (which you may already have);
  
