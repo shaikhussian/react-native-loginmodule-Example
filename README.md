@@ -34,7 +34,7 @@ export default class Sample extends Component {
         let AppName = "xxx APP"  // Name of the app
         const url = 'xxxx url'   //Api url
         const fields={EMail:'EMail',Password:'Password'}  // Input fields that used in this class imported from this module
-        
+        const headers = {'Content-Type':'application/json','Authorization':'bearer {{token}}'}
         //pass the key like 'Login' for login and 'register' for register
         const parameters = {'AppName':AppName,'url':url,'headers':headers,'fields':fields,'field':'Login'}
         ButtonAction(parameters).then((res)=>{
