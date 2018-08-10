@@ -6,18 +6,6 @@ No need to TextInput onChange events when using this module.
 ![react-native-loginmodule-preview](https://github.com/shaikhussian/react-native-loginmodule-Example/blob/master/demos/react-native-loginmodule-preview.gif?raw=true)
 ![react-native-loginmodule-preview](https://github.com/shaikhussian/react-native-loginmodule-Example/blob/master/demos/react-native-loginmodule-preview-ios.gif?raw=true)
 
-#To run the Example try the following commands
-```sh
-npm install
-```
-###In ios:
-```sh
-react-native run-ios
-```
-###In android
-```sh
-react-native run-android
-```
 
 # Pre-requisites
 react-native, node.js and a platform-specific tools needed to compile native NPM module (which you may already have);
@@ -48,8 +36,8 @@ export default class Sample extends Component {
         const fields={EMail:'EMail',Password:'Password'}  // Input fields that used in this class imported from this module
         
         //pass the key like 'Login' for login and 'register' for register
-        
-        ButtonAction(AppName,'Login',url,fields).then((res)=>{
+        const parameters = {'AppName':AppName,'url':url,'headers':headers,'fields':fields,'field':'Login'}
+        ButtonAction(parameters).then((res)=>{
             console.log(res);
         })
     }
