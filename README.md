@@ -38,7 +38,15 @@ export default class Sample extends Component {
         //pass the key like 'Login' for login and 'register' for register
         const parameters = {'AppName':AppName,'url':url,'headers':headers,'fields':fields,'field':'Login'}
         ButtonAction(parameters).then((res)=>{
-            console.log(res);
+            if(res != undefined){
+                //alert(JSON.stringify(res))
+                if(res.isvalid != undefined){
+                    console.log('res')
+                    \\this is for handling validation
+                }else{
+                    alert ('RES ID: ' + res.id);
+                }
+            }
         })
     }
     return (
