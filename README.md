@@ -42,7 +42,7 @@ export default class Sample extends Component {
                 //alert(JSON.stringify(res))
                 if(res.isvalid != undefined){
                     console.log('res')
-                    \\this is for handling validation
+                    \\this is for handling validation alerts
                 }else{
                     alert ('RES ID: ' + res.id);
                 }
@@ -63,7 +63,13 @@ export default class Sample extends Component {
         );
 }
 ```
+###To handle Logout
 
+```sh
+LogoutAction().then((res)=>{
+console.log("res:"+res)   \\here in res it will return logout sucess
+})
+```
 ### Fields included in this module
 #### Note: use the fields like this only
 ```sh 
