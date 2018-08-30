@@ -8,8 +8,24 @@
         "source": "/Users/nueve/.android/build-cache/d731cf29f300ad598028e615e325f102d0564d6b/output/res/layout-v21/notification_action.xml"
     },
     {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/nueve/.android/build-cache/d731cf29f300ad598028e615e325f102d0564d6b/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/nueve/.android/build-cache/d731cf29f300ad598028e615e325f102d0564d6b/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
         "merged": "/Users/nueve/Documents/LoginModuleUsingRedux/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
         "source": "/Users/nueve/.android/build-cache/d731cf29f300ad598028e615e325f102d0564d6b/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/nueve/.android/build-cache/d731cf29f300ad598028e615e325f102d0564d6b/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/nueve/.android/build-cache/d731cf29f300ad598028e615e325f102d0564d6b/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/Users/nueve/Documents/LoginModuleUsingRedux/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",

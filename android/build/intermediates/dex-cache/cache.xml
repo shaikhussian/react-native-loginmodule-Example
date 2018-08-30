@@ -3,6 +3,24 @@
 
     <item
         is-multidex="false"
+        jar="/Users/nueve/.android/build-cache/7fb06e5f03310acff12266ce2bf444d81fac13ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/classes_90a27b3452eb43364f2effe0e5ad92af1ecc8c8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.android/build-cache/424e6f3213a13ee946a0a950b18fb63fe9f9fb15/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/classes_959b056380dd622adbd94bfae4fb955eecd84091.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/nueve/.android/build-cache/5dcdce558c5981c13fdd9788f9ed799ddab1a535/output/jars/libs/infer-annotations-4.0.jar"
         jumboMode="false"
         optimize="true"
@@ -12,12 +30,264 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/nueve/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_ba15cc1e9237dc6601f25f2a0a62f6f6181fc40d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.android/build-cache/e18e1aa9e1ad6797d955b85fc887db9f0a79a1ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/classes_fa4a470057aa4b59f25a2b5cd6c9614beaff31e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_f666b5813322bdbd4cab747b88d010e6fbb3e379.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.android/build-cache/2777b81ae472c888121249b1e038c53a0fafa9dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/classes_ed2b920e701dae19cb22265194552a2ef124d782.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_61cce29df95c42fc6f2ce9b194bb7cfc511dedab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_6e67561b9b104c2a460c41a787eba33e398e658f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_7dd5436ab11efc0305b76fc07e2a67d2bff1e40a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.android/build-cache/50840cacf929890df256f72afd96298731cba2a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/classes_c6cda2275a6c9c758b69983ed5337ee83eff539b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.android/build-cache/ee716c789f8fd747264e4d6b4374c4050affea8b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/classes_75fec3deb019a1ba1ef9f56fb354e06145c113da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_3ce15a85d0d2faf4fac2db919ddbee19fa868d34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_a52c6c75d1298f351fb272065ebe3fc283f7b271.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.android/build-cache/059241f8a7376a34a6a82f59ed4b6ed092cc13fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/classes_87490ec9e640d1511bbfa3186e96491d7752ad78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.android/build-cache/b9c352043a78403f85935b50445f9c04d490661e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/classes_9f20c8057e231f54409aeaa1313cb7c767d4ddef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.android/build-cache/44ceab765990604d67b28fd4e1efb12991cc0f0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/classes_be10d41e890ac0d04ae15fc81f6fb14ec82026b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.android/build-cache/e8cf9224b76129f173c36c96a7ca043cc3b137f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/classes_fc6c7f8e9380538afb7a31a149bc61f54a9c0d59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.android/build-cache/96e9100a93dd0d333d6ea02a05f52eb06d56ef67/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/classes_21e8accceca1505f117fb873145aacc6513c3796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.android/build-cache/9d6111d2c074c08addb4da36a2cebb134e88ad25/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/classes_2bf3d7d72036673780afface1a052eb57366d519.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.android/build-cache/7aaa08faf58c1e0078cf707d180dd27b894b88cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/classes_4be76714cc2b46092a4a82ab80652b234688202a.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/nueve/.android/build-cache/5dcdce558c5981c13fdd9788f9ed799ddab1a535/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
         sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
         <dex dex="/Users/nueve/Documents/LoginModuleUsingRedux/android/app/build/intermediates/pre-dexed/debug/classes_c3ecacefb521b02726ede5ca9238a9635b6fa4e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.android/build-cache/476f646e10bd7e23043fcdc1bfb1ebaf605487bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/classes_d6b7dcd0e9f5fdcfb08072db0395c90301846ca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_227c8b1acb548561c1e3dc27ea2384045f548fb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.android/build-cache/d703ec561f2c99c45152591a3f5135e7965c21a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/classes_87a758fab8e67d9fb49d990e71a91630208daeeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.android/build-cache/e7bef8b7682ac53dfe5571f5c74fab65f953d50e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/classes_480755d4afc554cb0008b71bf6e05d8ef75765d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/classes_1cc9673033c4b285fcb859eae0b550b596b775bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.android/build-cache/d731cf29f300ad598028e615e325f102d0564d6b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/classes_d53ba94c4725bd59bb41677179e339e83c82063d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.android/build-cache/7aaa08faf58c1e0078cf707d180dd27b894b88cc/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_f12011571270362e69662d817db618d5e4cf6138.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_87bd87b849d4e1fceb0c03f03300c205dc7c3498.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_0297a632ccc13387a7935f80faa81d54b74620fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nueve/.android/build-cache/6f0c680f94532548544a759738060974b93a0d98/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/pre-dexed/debug/classes_c270b68079e77d122c8545eb0bd2791ea0a0a672.jar" />
     </item>
 
 </items>

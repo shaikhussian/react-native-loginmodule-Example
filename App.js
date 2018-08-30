@@ -38,21 +38,25 @@ export default class App extends Component<Props> {
         return (
             <Container style={{backgroundColor:'yellow'}}>
                 <Content contentContainerStyle={{flex:1,justifyContent: 'center'}}>
-                    <Form>
+                    <Form style={{marginRight:10}}>
                         <FullName
                             onSubmitEditing={(event) => {
                                 this._inputsecond._root.focus();
+
                             }}
+                            style={{color:'red'}}
                             returnKeyType={'next'}/>
                         <EMail
                             getRef={(c) => this._inputsecond = c}
                             returnKeyType={'next'}
+                            style={{color:'red'}}
                             onSubmitEditing={(event) => {
                                 this._inputThrird._root.focus();
                             }}/>
                         <Password
                             getRef={(c) => this._inputThrird = c}
                             returnKeyType={'done'}
+                            style={{color:'red'}}
                             onSubmitEditing={(event) => {
                                 console.log("RegisterAction")
                             }}/>

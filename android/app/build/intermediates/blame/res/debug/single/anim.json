@@ -20,10 +20,6 @@
         "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/anim/tooltip_exit.xml"
     },
     {
-        "merged": "/Users/nueve/Documents/LoginModuleUsingRedux/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/anim/abc_slide_in_bottom.xml"
-    },
-    {
         "merged": "/Users/nueve/Documents/LoginModuleUsingRedux/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
         "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
@@ -32,12 +28,76 @@
         "source": "/Users/nueve/.android/build-cache/5dcdce558c5981c13fdd9788f9ed799ddab1a535/output/res/anim/catalyst_slide_up.xml"
     },
     {
+        "merged": "/Users/nueve/Documents/LoginModuleUsingRedux/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/nueve/.android/build-cache/7aaa08faf58c1e0078cf707d180dd27b894b88cc/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/nueve/Documents/LoginModuleUsingRedux/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/nueve/.android/build-cache/5dcdce558c5981c13fdd9788f9ed799ddab1a535/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/nueve/.android/build-cache/7aaa08faf58c1e0078cf707d180dd27b894b88cc/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/nueve/Documents/LoginModuleUsingRedux/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/nueve/.android/build-cache/5dcdce558c5981c13fdd9788f9ed799ddab1a535/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/nueve/.android/build-cache/7aaa08faf58c1e0078cf707d180dd27b894b88cc/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/nueve/Documents/LoginModuleUsingRedux/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/nueve/.android/build-cache/7aaa08faf58c1e0078cf707d180dd27b894b88cc/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
         "merged": "/Users/nueve/Documents/LoginModuleUsingRedux/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
         "source": "/Users/nueve/.android/build-cache/5dcdce558c5981c13fdd9788f9ed799ddab1a535/output/res/anim/catalyst_push_up_in.xml"
     },
     {
-        "merged": "/Users/nueve/Documents/LoginModuleUsingRedux/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/anim/abc_slide_out_top.xml"
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
         "merged": "/Users/nueve/Documents/LoginModuleUsingRedux/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
@@ -52,20 +112,32 @@
         "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/anim/abc_popup_enter.xml"
     },
     {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/nueve/.android/build-cache/7aaa08faf58c1e0078cf707d180dd27b894b88cc/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
         "merged": "/Users/nueve/Documents/LoginModuleUsingRedux/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
         "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Users/nueve/Documents/LoginModuleUsingRedux/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
-        "source": "/Users/nueve/.android/build-cache/5dcdce558c5981c13fdd9788f9ed799ddab1a535/output/res/anim/catalyst_fade_out.xml"
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/nueve/.android/build-cache/7aaa08faf58c1e0078cf707d180dd27b894b88cc/output/res/anim/catalyst_fade_in.xml"
     },
     {
         "merged": "/Users/nueve/Documents/LoginModuleUsingRedux/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
         "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/anim/tooltip_enter.xml"
-    },
-    {
-        "merged": "/Users/nueve/Documents/LoginModuleUsingRedux/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
-        "source": "/Users/nueve/.android/build-cache/5dcdce558c5981c13fdd9788f9ed799ddab1a535/output/res/anim/catalyst_fade_in.xml"
     },
     {
         "merged": "/Users/nueve/Documents/LoginModuleUsingRedux/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",

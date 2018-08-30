@@ -12,7 +12,23 @@
         "source": "/Users/nueve/.android/build-cache/d731cf29f300ad598028e615e325f102d0564d6b/output/res/drawable-v21/notification_action_background.xml"
     },
     {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/nueve/.android/build-cache/d731cf29f300ad598028e615e325f102d0564d6b/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
         "merged": "/Users/nueve/Documents/LoginModuleUsingRedux/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
         "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
         "merged": "/Users/nueve/Documents/LoginModuleUsingRedux/android/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
         "source": "/Users/nueve/.android/build-cache/49877136c4a818bfdc6d7cd3581e8590482cbb7e/output/res/drawable-v23/abc_control_background_material.xml"
     }

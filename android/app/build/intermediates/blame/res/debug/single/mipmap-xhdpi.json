@@ -6,5 +6,13 @@
     {
         "merged": "/Users/nueve/Documents/LoginModuleUsingRedux/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
         "source": "/Users/nueve/Documents/LoginModuleUsingRedux/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/nueve/Desktop/react-native-loginmodule-Example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }
 ]
